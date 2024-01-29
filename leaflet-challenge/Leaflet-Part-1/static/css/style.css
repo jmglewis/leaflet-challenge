@@ -1,0 +1,14 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body,
+html {
+  height: 100%;
+}
+#map {
+  position: relative;
+  height: 900px; 
+  background-color: #a1afb6fd; 
+}
