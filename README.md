@@ -4,11 +4,10 @@
 The United States Geological Survey (USGS) plays a crucial role in providing scientific data about natural hazards, ecosystem health, and climate change impacts. As part of their mission, they aim to develop tools for visualizing earthquake data to better educate the public and government organizations on global seismic activity.
 
 ## Instructions
-The instructions for this activity are broken into two parts:
 
 ### Create the Earthquake Visualization
 
-Your first task is to visualize an earthquake dataset. Complete the following steps:
+Complete the following steps:
 
 1. Get your dataset. To do so, follow these steps:
 
