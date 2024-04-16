@@ -31,4 +31,4 @@ Create a legend that will provide context for your map data.
 Your visualization should look something like the preceding map.
 
 ## References
-Dataset created by the United States Geological SurveyLinks to an external site..
+Dataset created by the United States Geological SurveyLinks to an external site. https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php 
